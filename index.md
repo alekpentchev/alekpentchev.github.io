@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub page!
+##_I am Aleksander Pentchev and few months ago I began my adventure in front-end web development..._
 
-You can use the [editor on GitHub](https://github.com/alekpentchev/alekpentchev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Currently I am looking for opportunities to work as a junior front-end developer. 
+I am using:
+- HTML5 
+- CSS3
+- JS
+- RWD
+- Bootstrap (basics)
+- jQuery (basics)
+- Sass (basics)
+- Photoshop (basics) - .psd to html
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the nearest future I want to learn (besides mastering the previous mentioned languages/techniques) among others:
+- Angular or React
+- other
+- basics of Python, mostly for data analysis
 
-### Markdown
+That is why the time has come to start publishing what I am currently doing to show my progress and commitment.
+On this page I would like to list my latest projects in front-end web development.
+Latest projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Dark Souls Fansite](http://alekpentchev.github.io/dark-souls-fansite/mainPage.html) (04.2017) - final project developed for web development classes. Solutions used:
+- HTML5 & CSS3
+- XHTML 1.0 strict
+- Bootstrap
+- JavaScript
 
-```markdown
-Syntax highlighted code block
+2. PSD to HTML template - Bluebox (05.2017) - currently in development, I will upload it in few days
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alekpentchev/alekpentchev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, contact me via alek.pentchev@gmail.com
