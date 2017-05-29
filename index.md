@@ -27,6 +27,10 @@ Latest projects:
 - Bootstrap
 - JavaScript
 
-2. PSD to HTML template - Bluebox (05.2017) - currently in development, I will upload it in few days
+2.[Bluebox](http://alekpentchev.github.io/bluebox-psd/index.html) (05.2017) -  PSD to HTML template
+Solutions used:
+- HTML
+- CSS
+ - flexbox
 
 If you have any questions, contact me via alek.pentchev@gmail.com
