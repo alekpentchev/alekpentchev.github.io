@@ -18,7 +18,7 @@ In the nearest future I want to learn (besides mastering the previous mentioned 
 - basics of Python, mostly for data analysis
 
 That is why the time has come to start publishing what I am currently doing to show my progress and commitment.
-On this page I would like to list my latest projects in front-end web development.
+On this page I would like to list my latest projects in front-end web development. If you want to check my repos, go here: [github.com/alekpentchev](https://github.com/alekpentchev).
 Latest projects:
 
 1. [Dark Souls Fansite](http://alekpentchev.github.io/dark-souls-fansite/mainPage.html) (04.2017) - final project developed for web development classes. Solutions used:
