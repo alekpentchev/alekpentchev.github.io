@@ -27,13 +27,13 @@ Latest projects:
 - Bootstrap
 - JavaScript
 
-2 [Bluebox](http://alekpentchev.github.io/bluebox-psd/index.html) (05.2017) -  PSD to HTML template
+2 [Bluebox](http://alekpentchev.github.io/bluebox-psd/index.html) (05.2017) -  PSD to HTML template.
 Solutions used:
 - HTML
 - CSS
 - flexbox
 
-3 [Portfolio](http://alekpentchev.github.io/portfolio/portfolio) - website made from scratch
+3 [Portfolio](http://alekpentchev.github.io/portfolio/portfolio) (06.2017) - website made from scratch.
 Warning! This project is not completed yet. Still many things to add.
 Solutions used:
 - HTML5 & CSS3
