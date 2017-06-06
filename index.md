@@ -1,5 +1,5 @@
 # Welcome to my GitHub page!
-##_I am Aleksander Pentchev and few months ago I began my adventure in front-end web development..._
+_I am Aleksander Pentchev and few months ago I began my adventure in front-end web development..._
 
 Currently I am looking for opportunities to work as a junior front-end developer. 
 I am using:
@@ -32,5 +32,15 @@ Solutions used:
 - HTML
 - CSS
  - flexbox
+ 
+3. [Portfolio[(http://alekpentchev.github.io/portfolio/portfolio) - website made from scratch
+Warning! This project is not completed yet. Still many things to add.
+Solutions used:
+- HTML5 & CSS3
+- JS
+- simple CSS & JS animations
+- flexbox
+
+
 
 If you have any questions, contact me via alek.pentchev@gmail.com
