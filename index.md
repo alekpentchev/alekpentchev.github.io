@@ -44,3 +44,4 @@ Solutions used:
 
 
 If you have any questions, contact me via alek.pentchev@gmail.com
+Ps. This is a temporary site. New full portfolio will be uploaded soon (this week probably).
