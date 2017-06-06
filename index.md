@@ -31,9 +31,9 @@ Latest projects:
 Solutions used:
 - HTML
 - CSS
- - flexbox
+- flexbox
  
-3. [Portfolio[(http://alekpentchev.github.io/portfolio/portfolio) - website made from scratch
+3. [Portfolio](http://alekpentchev.github.io/portfolio/portfolio) - website made from scratch
 Warning! This project is not completed yet. Still many things to add.
 Solutions used:
 - HTML5 & CSS3
