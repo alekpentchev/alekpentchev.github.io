@@ -1,23 +1,5 @@
 # Welcome to my GitHub page!
-_I am Aleksander Pentchev and few months ago I began my adventure in front-end web development..._
 
-Currently I am looking for opportunities to work as a junior front-end developer. 
-I am using:
-- HTML5 
-- CSS3
-- JS
-- RWD
-- Bootstrap (basics)
-- jQuery (basics)
-- Sass (basics)
-- Photoshop (basics) - .psd to html
-
-In the nearest future I want to learn (besides mastering the previous mentioned languages/techniques) among others:
-- Angular or React
-- other
-- basics of Python, mostly for data analysis
-
-That is why the time has come to start publishing what I am currently doing to show my progress and commitment.
 On this page I would like to list my latest projects in front-end web development. If you want to check my repos, go here: [github.com/alekpentchev](https://github.com/alekpentchev).
 Latest projects:
 
@@ -38,10 +20,11 @@ Warning! This project is not completed yet. Still many things to add.
 Solutions used:
 - HTML5 & CSS3
 - JS
-- simple CSS & JS animations
+- CSS & JS animations
 - flexbox
+- css grid
 
-
-
-If you have any questions, contact me via alek.pentchev@gmail.com
-Ps. This is a temporary site. New full portfolio will be uploaded soon (this week probably).
+What I'm doing right now? Well...
+1. Learning plain JavaScript 
+2. Learning Angular 5
+3. Learning Vue.js
