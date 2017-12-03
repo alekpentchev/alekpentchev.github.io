@@ -7,14 +7,15 @@ const timeInterval = 3 * oneSecond;
 
 
 function displayWord(wordIndex){
-  let text = document.querySelector('.header_span');
+  let text = document.querySelector('.header__span');
   let word = wordList[wordIndex];
   text.textContent = word;
-}
+};
 
 
 
 function rotateWord(index){
+  
   setInterval(()=>{
 
     if(index === wordList.length){
@@ -25,14 +26,17 @@ function rotateWord(index){
     index++
 
   },timeInterval)
-}
+};
 
+
+//Unnecessary function which caused problems with rotating words in header section
+/*
 function funcRotate(){
   rotateWord(0)
-}
+};
+*/
 
-
-window.addEventListener('DOMContentLoaded',funcRotate);
+window.addEventListener('DOMContentLoaded',rotateWord(0));
 
 //Other methods which would work in this case but the upper one is clearer and better
 

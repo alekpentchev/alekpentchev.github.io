@@ -1,17 +1,13 @@
 <!doctype html>
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
-  <title>Alek Pentchev | junior front-end dev</title>
-  <meta name="description" content="Junior front-end dev portfolio">
+  <title>Alek Pentchev | Front-end Dev</title>
+  <meta name="description" content="Front-end developer portfolio">
   <meta name="author" content="Alek Pentchev">
 
   <link rel="stylesheet" href="style.css" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Nunito|Raleway" rel="stylesheet"> 
-
-  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
   
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -21,45 +17,58 @@
 <body>
   <div class="container">
     <nav>
-        <span>Alek Pentchev | Junior Front-end Dev</span>
+        <span>Alek Pentchev | Front-end Dev</span>
         <ul>
             <li><a href='#'>Home</a></li>
             <li><a href='#about'>About</a></li>
-            <li><a href='#projects'>Projects</a></li>
             <li><a href="#skills">Skills</a></li>
+            <li><a href='#projects'>Projects</a></li>
             <li><a href='#contact'>Contact</a></li>
         </ul>
     </nav>
 
-    <div class='header'>
-      <video autoplay loop class='header_video' src="video/fish-tank.mp4" type="video/mp4" /></video> 
-      <h1>I create / <span class='header_span'>websites</span> / </h1>
-    </div>
+    <header>
+      <img src="img/hero-img/pexels-photo-325044.jpeg" alt="Hero image - fish in a pond" class="header__img">
+      <h1>I create / <span class='header__span'>websites</span> / </h1>
+    </header>
 
     <section class="about" id="about">
-
       <h2>About me</h2>
-
-      <div class="about_description">
-      <p id='#about_description_p'>Hello! I am Aleksander Pentchev and I am <mark>junior front-end developer</mark>. <br> My journey in this field began one year ago when I have received my first project commission in Wordpress.<br> Since then I did commercial projects and spent months on learning and practicing languages and techniques of front-end development. <br> I am eager to learn and to work. Not without a reason my friends called me "the child of luck" when with small effort I did something big. <br>Besides front-end development I am interested in East Asia modern cinematography and culture (which you can see here), German modern music and Python programming language within data analysis.</p>
-      <img src='img/pentchev-profile.jpg' alt="Alek Pentchev's profile photo"/>
-      </div>
+      <section class="about__description">
+        <article>
+          Hello! <br> My name is Alek and I am <mark>front-end developer</mark>. <br>
+          People describe me as an open-minded and creatively driven person with an attitude of finding links between outwardly separate subjects.
+          In the meantime happy programmer striving for never-ending story of learning new skills and using them in interesting and useful projects.
+          <br>From economic psychology to IT, from East Asian cinema through gaming to German rap scene - <mark>diversity is what defines me</mark>.
+          <br>
+        </article>
+        <img src='img/pentchev-profile.jpg' alt="Alek Pentchev's profile photo"/>
+      </section>
     </section>
     
-   <section class="rest-soon">
+   <section class="skills" id='skills'>
 
-      <h2>Rest is coming soon!</h2>
+      <h2>My skills</h2>
 
-      <div class="rest_description">
-      <span>PS. This week probably. Wish me luck, then!</span>
-      <img src='img/maneki_neko.gif' alt="Alek Pentchev's profile photo"/>
+      <div class="grid__wrapper">
+        <div class="skills__grid">
+          <div class="grid__item-1">1</div>
+          <div class="grid__item-2">2</div>
+          <div class="grid__item-3">3</div>
+          <div class="grid__item-1">1</div>
+          <div class="grid__item-2">2</div>
+          <div class="grid__item-3">3</div>
+        </div>
       </div>
+
+      
+  
     </section>
+
+
 
 
     </div>
-
   <script src="script.js"></script>
-  <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 </body>
 </html>
