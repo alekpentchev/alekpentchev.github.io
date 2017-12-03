@@ -15,7 +15,7 @@ Solutions used:
 - CSS
 - flexbox
 
-3 [Portfolio](http://alekpentchev.github.io/portfolio/portfolio) (06.2017) - website made from scratch.
+3 [Portfolio](http://alekpentchev.github.io/portfolio/portfolio) (06.2017 - in progress) - website made from scratch.
 Warning! This project is not completed yet. Still many things to add.
 Solutions used:
 - HTML5 & CSS3
