@@ -19,7 +19,7 @@ Solutions used:
 Warning! This project is not completed yet. Still many things to add.
 Solutions used:
 - HTML5 & CSS3
-- JS
+- JS ( + ES6 )
 - CSS & JS animations
 - flexbox
 - css grid
